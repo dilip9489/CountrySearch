@@ -5,7 +5,7 @@ function CountryCard({ country }) {
   return (
     <div className="countryCard">
       <img src={country.flags.png} alt={country.name.common} />
-      <h3>{country.name.common}</h3>
+      <p>{country.name.common}</p>
     </div>
   );
 }

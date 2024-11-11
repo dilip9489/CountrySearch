@@ -12,3 +12,7 @@ img{
     display: inline-block;
     margin-top: 20px;
 }
+p{
+    font-size: 20px;
+    font-weight: 400;
+}
